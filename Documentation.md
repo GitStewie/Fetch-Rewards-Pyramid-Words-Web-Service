@@ -9,6 +9,7 @@ After downloading the directory/folder named "Pyramid Words":
 - This defaults the word to process as "banana"
 - Optionally, append "?word=" and the word you wish to evaluate like so
   - Example: http://localhost:8080/pyramidWord?word=bandana
+
 - To run locally, the following is required
   - Java
   - Maven
