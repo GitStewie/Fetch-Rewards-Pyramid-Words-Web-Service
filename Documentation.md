@@ -1,7 +1,7 @@
 # Fetch-Rewards-Pyramid-Words-Web-Service
 A web service to evaluate if a word is a pyramid word created using Spring and Maven.
 
-After downloading:
+After downloading the directory/folder named "Pyramid Words":
 - Simply run the command below in the directory/folder named "Pyramid Words":
   - MacOS/Linux: ./mvnw spring-boot:run 
   - Windows: mvnw spring-boot:run 
