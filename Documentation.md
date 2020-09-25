@@ -2,7 +2,7 @@
 A web service to evaluate if a word is a pyramid word created using Spring and Maven.
 
 After downloading:
-- Simply run the command below in the directory named "Pyramid Words":
+- Simply run the command below in the directory/folder named "Pyramid Words":
   - MacOS/Linux: ./mvnw spring-boot:run 
   - Windows: mvnw spring-boot:run 
 - Then connect to http://localhost:8080/pyramidWord
